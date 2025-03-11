@@ -12,7 +12,7 @@
 
 - 📫 How to reach me:  **www.linkedin.com/in/ashutosh-6a973a295**
 
-- 📄 Know about my experiences:  [Web development Intern | CodeSoft | [02-2025] - [03-2025]
+- 📄 Know about my experiences:  Web development Intern | CodeSoft | [02-2025] - [03-2025]
 
 - ⚡ Fun fact:  **I can write code faster that I can debug it!!**
 
